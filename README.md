@@ -22,7 +22,7 @@ A web application for searching and exploring Model Context Protocol (MCP) serve
 
 ## Screenshots
 
-![MCP Registry App](https://via.placeholder.com/800x600/18181b/fafafa?text=MCP+Registry+App)
+![MCP Registry App](image.jpg)
 
 *Modern, clean interface for browsing MCP servers with detailed modal views*
 
